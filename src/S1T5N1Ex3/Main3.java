@@ -61,7 +61,7 @@ public class Main3 {
 		String resposta = "";
 		Boolean fet = false;
 		try{
-            FileWriter fichero = new FileWriter("Directorio\\Registro.txt", true);
+            FileWriter fichero = new FileWriter("Directorio.txt", true);
             PrintWriter pw = new PrintWriter(fichero);
             BufferedWriter bw = new BufferedWriter(fichero);
             
