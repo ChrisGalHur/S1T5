@@ -2,9 +2,12 @@ package S1T5N1Ex3;
 
 import java.io.BufferedWriter;
 import java.io.File;
+import java.io.IOException;
 import java.io.FileWriter;
 import java.io.PrintWriter;
+import java.lang.reflect.Array;
 import java.text.SimpleDateFormat;
+import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Main3 {
@@ -13,65 +16,60 @@ public class Main3 {
 		/*- Exercici 3
 		Modifica l’exercici anterior. Ara, en lloc de mostrar el resultat per la pantalla, guarda el resultat en un fitxer TXT.*/
 		
-		Scanner scan = new Scanner(System.in);
-		String extensiones[] = {".txt",".rar",".odp",".xls",};
+		//Le he dado la vuelta a todo para que quede más limpio
+
+		File dirMain;
+		String m = args[0];
 		
-		String directorioUser;
-		
-		System.out.println("Dime el directorio");
-		directorioUser = scan.nextLine();
-		System.out.println("");
-		
-		File dir = new File(directorioUser);
+		dirMain = llegirFitxer(m);
+		ArrayList arRbre = new ArrayList<>();
+		arRbre = ferArbreArchius(dirMain, arRbre, 0);
+	}
+
+	public static File llegirFitxer(String a) {
+		File dir = new File(a);
 		File[] ficheros = dir.listFiles();
 			
 		if (ficheros == null) {
 			  System.out.println("No hay ficheros en el directorio especificado");
-		}else { 
-			printa(dir,0);	
 		}
-		
+		return dir;
 	}
 	
-	private static void printa(File direct, Integer iLevel) {
+	public static ArrayList ferArbreArchius(File fileATreballar, ArrayList arbre, Integer iLevel) {
 		SimpleDateFormat fecha = new SimpleDateFormat();
-		String ruta;
-		
-		for(int i = 0; i < iLevel; i++) {
-			guardar("-");
-		}
-		if(direct.isDirectory()) {
-			ruta = direct.getName() + "(D) " + fecha.format(direct.lastModified());
-			guardar(ruta);
-		}else if(direct.isFile()) {
-			ruta = direct.getName() + "(F) " + fecha.format(direct.lastModified());
-			guardar(ruta);
-		}
 
-		if(direct.isDirectory()){
-			File[] arrFiles = direct.listFiles();//Subdirectorio
+		for(int i = 0; i < iLevel; i++) {
+			guardarRegistre("-");
+		}
+		if(fileATreballar.isDirectory()) {
+			guardarRegistre(fileATreballar.getName() + "(D) " + fecha.format(fileATreballar.lastModified()));
+		}else if(fileATreballar.isFile()) {
+			guardarRegistre(fileATreballar.getName() + "(F) " + fecha.format(fileATreballar.lastModified()));
+		}
+		if(fileATreballar.isDirectory()){
+			File[] arrFiles = fileATreballar.listFiles();//Subdirectorio
 			for(File fileItem : arrFiles){
-				printa(fileItem, iLevel++);
+				iLevel++;
+				ferArbreArchius(fileItem, arbre, iLevel);
 			}
 		}
-		
+		return arbre;
 	}
 	
-	private static void guardar(String dato) {
+	public static void guardarRegistre(String datoGuardar) {
 		String resposta = "";
-		Boolean fet = false;
+		
 		try{
             FileWriter fichero = new FileWriter("Directorio.txt", true);
             PrintWriter pw = new PrintWriter(fichero);
-            BufferedWriter bw = new BufferedWriter(fichero);
             
-           	pw.println(dato);
+           	pw.println(datoGuardar);
            	fichero.close();
         }catch(Exception e) {
         	resposta = "No se ha podido guardar el registro.";
-        	fet = true;
         }
 		System.out.println(resposta);
-	}	
+	}
 	
 }

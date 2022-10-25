@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 S1T5(D) 23/10/22 18:56
 D:\Java\eclipse-workspace\S1T5\.classpathD:\Java\eclipse-workspace\S1T5\.gitD:\Java\eclipse-workspace\S1T5\.projectD:\Java\eclipse-workspace\S1T5\.settingsD:\Java\eclipse-workspace\S1T5\binD:\Java\eclipse-workspace\S1T5\src
 S1T5(D) 23/10/22 19:00
@@ -1284,3 +1285,289 @@ Main4.java(F) 23/10/22 19:12
 -
 -
 S1T5N1Ex5(D) 23/10/22 18:52
+=======
+M'estan llegint.C:\Christian\S1T5(D) 25/10/22 13:01
+
+-C:\Christian\S1T5\.classpath(F) 24/10/22 10:25
+
+--C:\Christian\S1T5\.git(D) 24/10/22 13:27
+
+--C:\Christian\S1T5\.git\COMMIT_EDITMSG(F) 24/10/22 13:27
+
+--C:\Christian\S1T5\.git\config(F) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\description(F) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\FETCH_HEAD(F) 21/10/22 14:26
+
+--C:\Christian\S1T5\.git\HEAD(F) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\hooks(D) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\hooks\applypatch-msg.sample(F) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\hooks\commit-msg.sample(F) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\hooks\fsmonitor-watchman.sample(F) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\hooks\post-update.sample(F) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\hooks\pre-applypatch.sample(F) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\hooks\pre-commit.sample(F) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\hooks\pre-merge-commit.sample(F) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\hooks\pre-push.sample(F) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\hooks\pre-rebase.sample(F) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\hooks\pre-receive.sample(F) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\hooks\prepare-commit-msg.sample(F) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\hooks\push-to-checkout.sample(F) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\hooks\update.sample(F) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\index(F) 24/10/22 13:27
+
+--C:\Christian\S1T5\.git\info(D) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\info\exclude(F) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\logs(D) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\logs\HEAD(F) 24/10/22 13:27
+
+--C:\Christian\S1T5\.git\logs\refs(D) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\logs\refs\heads(D) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\logs\refs\heads\master(F) 24/10/22 13:27
+
+--C:\Christian\S1T5\.git\objects(D) 24/10/22 13:27
+
+--C:\Christian\S1T5\.git\objects\04(D) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\objects\04\39c0ef7516d87cb9dc6c9076a0b6175512199f(F) 24/10/22 13:27
+
+--C:\Christian\S1T5\.git\objects\16(D) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\objects\16\d0a66434afb2e9d1a8e231682201e27a493780(F) 24/10/22 13:27
+
+--C:\Christian\S1T5\.git\objects\16\d19eb05bf3132071d0889155d18653c37f5cad(F) 24/10/22 13:27
+
+--C:\Christian\S1T5\.git\objects\18(D) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\objects\18\7f2b6a76fc9e287a70b609e645894d9d724fd0(F) 24/10/22 13:27
+
+--C:\Christian\S1T5\.git\objects\19(D) 24/10/22 13:27
+
+--C:\Christian\S1T5\.git\objects\19\c529b6e7d6be7cee6334b6df974dbb358886ac(F) 24/10/22 13:27
+
+--C:\Christian\S1T5\.git\objects\19\d0764abdd3b67b78ff563fb6a6c49a9d7eda34(F) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\objects\26(D) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\objects\26\a140b943a0713ff086fb32f380ccd2188fca63(F) 24/10/22 13:27
+
+--C:\Christian\S1T5\.git\objects\2e(D) 24/10/22 13:27
+
+--C:\Christian\S1T5\.git\objects\2e\e19d84733f9d6fec0dbdd96fb6f128e3662ae1(F) 24/10/22 13:27
+
+--C:\Christian\S1T5\.git\objects\40(D) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\objects\40\e7bdf92f37cc41b3bc07e19b966cf0a47d6aaf(F) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\objects\41(D) 24/10/22 13:27
+
+--C:\Christian\S1T5\.git\objects\41\81337bf2b0f16420c19a0f8034c2190eff5da0(F) 24/10/22 13:27
+
+--C:\Christian\S1T5\.git\objects\46(D) 24/10/22 13:27
+
+--C:\Christian\S1T5\.git\objects\46\6d6e136abd7bd08fec45ea1f10a0782969b032(F) 24/10/22 13:27
+
+--C:\Christian\S1T5\.git\objects\4b(D) 24/10/22 13:27
+
+--C:\Christian\S1T5\.git\objects\4b\616cb6aa7ce2ab7d30d163b8a4412d68aba908(F) 24/10/22 13:27
+
+--C:\Christian\S1T5\.git\objects\4c(D) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\objects\4c\85832f5e3a1c30b0655d36c96add4589eeb32b(F) 24/10/22 13:27
+
+--C:\Christian\S1T5\.git\objects\6e(D) 24/10/22 13:27
+
+--C:\Christian\S1T5\.git\objects\6e\0394ee9a14d1ce045a38ff34ae9866e74acea4(F) 24/10/22 13:27
+
+--C:\Christian\S1T5\.git\objects\76(D) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\objects\76\2bbd9487bbd5cf3aff070eef413bc67c0d9d8a(F) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\objects\77(D) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\objects\77\b9bbd23a17cf36a220daf640d0f55ef0dc13fb(F) 24/10/22 13:27
+
+--C:\Christian\S1T5\.git\objects\78(D) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\objects\78\e5f1127872736466684c5768e9cbbae6511ec8(F) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\objects\79(D) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\objects\79\4505186fa4d40887e6c9070526fba285d011c4(F) 24/10/22 13:27
+
+--C:\Christian\S1T5\.git\objects\84(D) 24/10/22 13:27
+
+--C:\Christian\S1T5\.git\objects\84\99cd172220ba63ebbeed686d3e88ed6d33cd91(F) 24/10/22 13:27
+
+--C:\Christian\S1T5\.git\objects\86(D) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\objects\86\325d02117a987dc484f6ac96b37de9c14ca3d7(F) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\objects\8a(D) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\objects\8a\abe8df874b0a3d967f10f874d673ca429620a2(F) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\objects\91(D) 24/10/22 13:27
+
+--C:\Christian\S1T5\.git\objects\91\3876af6712f4bf504981a7bef04eec6c04c792(F) 24/10/22 13:27
+
+--C:\Christian\S1T5\.git\objects\97(D) 24/10/22 13:27
+
+--C:\Christian\S1T5\.git\objects\97\5b79af8488441f8a99d79603d2532d6b05a704(F) 24/10/22 13:27
+
+--C:\Christian\S1T5\.git\objects\98(D) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\objects\98\d369da1ec3662439695245ce3eca2d433465a8(F) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\objects\9d(D) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\objects\9d\f84fea356bd9c20e561712c0e3f17a7fad5477(F) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\objects\9e(D) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\objects\9e\93ae48308e4bb0096abdb14d6db107f92b9556(F) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\objects\9f(D) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\objects\9f\9bbb5612aad790978d63aec582eafaaa5a5f32(F) 24/10/22 13:27
+
+--C:\Christian\S1T5\.git\objects\a3(D) 24/10/22 13:27
+
+--C:\Christian\S1T5\.git\objects\a3\ff6c1a58f9034ca37546c9abc92596f3fda151(F) 24/10/22 13:27
+
+--C:\Christian\S1T5\.git\objects\b1(D) 24/10/22 13:27
+
+--C:\Christian\S1T5\.git\objects\b1\96c64a3418b865f0476d2e21d11eae3dd4b2da(F) 24/10/22 13:27
+
+--C:\Christian\S1T5\.git\objects\c7(D) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\objects\c7\964f802ebcdbeb001207441f67a5ff09afd4b9(F) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\objects\cd(D) 24/10/22 13:27
+
+--C:\Christian\S1T5\.git\objects\cd\95bae7b75e090fa80d492ea4774586f69e5d84(F) 24/10/22 13:27
+
+--C:\Christian\S1T5\.git\objects\d2(D) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\objects\d2\947ae2e89dc8d3dcc2e1e1f1cd8b835b69a06e(F) 24/10/22 13:27
+
+--C:\Christian\S1T5\.git\objects\d9(D) 24/10/22 13:27
+
+--C:\Christian\S1T5\.git\objects\d9\e3d03290c6c9c6c6081ccdaafbd16722ea13cf(F) 24/10/22 13:27
+
+--C:\Christian\S1T5\.git\objects\e4(D) 24/10/22 13:27
+
+--C:\Christian\S1T5\.git\objects\e4\af08cca26fa65a65aaa02aff7e456b8a3d6641(F) 24/10/22 13:27
+
+--C:\Christian\S1T5\.git\objects\e6(D) 24/10/22 13:27
+
+--C:\Christian\S1T5\.git\objects\e6\9de29bb2d1d6434b8b29ae775ad8c2e48c5391(F) 24/10/22 13:27
+
+--C:\Christian\S1T5\.git\objects\e7(D) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\objects\e7\e0e6356a523e4b4ffa1a649ae16f34d1d86a84(F) 24/10/22 13:27
+
+--C:\Christian\S1T5\.git\objects\eb(D) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\objects\eb\f6628a883116e7e05670752b939b5509fb5891(F) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\objects\ef(D) 24/10/22 13:27
+
+--C:\Christian\S1T5\.git\objects\ef\b779e649706145970486d260c2b7cafa4ccbc4(F) 24/10/22 13:27
+
+--C:\Christian\S1T5\.git\objects\f5(D) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\objects\f5\775addff641ea704890009355eec2dd7713fca(F) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\objects\fa(D) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\objects\fa\7eff70f61be4687aafbb255f44b9ca6ba97fad(F) 24/10/22 13:27
+
+--C:\Christian\S1T5\.git\objects\info(D) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\objects\pack(D) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\refs(D) 21/10/22 14:23
+
+--C:\Christian\S1T5\.git\refs\heads(D) 24/10/22 13:27
+
+--C:\Christian\S1T5\.git\refs\heads\master(F) 24/10/22 13:27
+
+--C:\Christian\S1T5\.git\refs\tags(D) 21/10/22 14:23
+
+---C:\Christian\S1T5\.project(F) 24/10/22 10:25
+
+----C:\Christian\S1T5\.settings(D) 24/10/22 10:25
+
+----C:\Christian\S1T5\.settings\org.eclipse.jdt.core.prefs(F) 24/10/22 10:25
+
+----C:\Christian\S1T5\.settings\org.eclipse.ltk.core.refactoring.prefs(F) 24/10/22 10:25
+
+-----C:\Christian\S1T5\Archivo.txt(F) 24/10/22 13:29
+
+------C:\Christian\S1T5\bin(D) 24/10/22 10:26
+
+------C:\Christian\S1T5\bin\S1T5N1Ex1(D) 24/10/22 10:26
+
+------C:\Christian\S1T5\bin\S1T5N1Ex1\Main1.class(F) 24/10/22 10:26
+
+------C:\Christian\S1T5\bin\S1T5N1Ex2(D) 24/10/22 10:26
+
+------C:\Christian\S1T5\bin\S1T5N1Ex2\Main2.class(F) 24/10/22 10:26
+
+------C:\Christian\S1T5\bin\S1T5N1Ex2\Pr.class(F) 24/10/22 10:26
+
+------C:\Christian\S1T5\bin\S1T5N1Ex3(D) 24/10/22 10:33
+
+------C:\Christian\S1T5\bin\S1T5N1Ex3\Main3.class(F) 24/10/22 12:14
+
+------C:\Christian\S1T5\bin\S1T5N1Ex4(D) 24/10/22 12:23
+
+------C:\Christian\S1T5\bin\S1T5N1Ex4\Main4.class(F) 25/10/22 12:58
+
+-------C:\Christian\S1T5\Directorio.txt(F) 25/10/22 13:02
+
+--------C:\Christian\S1T5\Leyendo.txt(F) 24/10/22 10:25
+
+---------C:\Christian\S1T5\src(D) 24/10/22 10:25
+
+---------C:\Christian\S1T5\src\S1T5N1Ex1(D) 24/10/22 10:25
+
+---------C:\Christian\S1T5\src\S1T5N1Ex1\Main1.java(F) 24/10/22 10:25
+
+---------C:\Christian\S1T5\src\S1T5N1Ex2(D) 24/10/22 10:25
+
+---------C:\Christian\S1T5\src\S1T5N1Ex2\Main2.java(F) 24/10/22 10:25
+
+---------C:\Christian\S1T5\src\S1T5N1Ex2\Pr.java(F) 24/10/22 10:25
+
+---------C:\Christian\S1T5\src\S1T5N1Ex3(D) 24/10/22 10:33
+
+---------C:\Christian\S1T5\src\S1T5N1Ex3\Main3.java(F) 24/10/22 12:14
+
+---------C:\Christian\S1T5\src\S1T5N1Ex4(D) 24/10/22 12:23
+
+---------C:\Christian\S1T5\src\S1T5N1Ex4\Main4.java(F) 25/10/22 12:58
+
+>>>>>>> 67f03d3d4501100b99cebd3844318446380bec0a
