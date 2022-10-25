@@ -16,10 +16,12 @@ Exemple:  java Main2.java C:\Program Files\Java
 Obrim Main3 y li donarem per paràmetre la carpeta a obrir. El programa ens guardarà un arxiu .txt amb l'arbre que ens retornaba a l'excercici anterior.
   
   
-<h2>S1T5N1Ex4 - Añadit mostrar .txt</h2>
+<h2>S1T5N1Ex4 - Afegit mostrar .txt</h2>
 Obrim Main4 y li donarem per paràmetre la carpeta a obrir:<br/> 
--&nbsp;Si li donem per parametre un directory ens guardarà un arxiu .txt amb l'arbre del exercicis anteriors.Exemple: java Main2.java C:\Program<br/> &nbsp; Files\Java<br/>
--&nbsp;Si li donem per parametre un arxiu .txt el llegirà y ens el mostrarà per pantallaExemple: java Main4.java C:\Java\eclipse- <br/> &nbsp; workspace\S1T5\Directori.txt
+- Si li donem per paràmetre un directori ens guardarà un arxiu .txt amb l'arbre del exercicis anteriors.<br/>
+ &nbsp; Exemple: java Main2.java C:\Program &nbsp; Files\Java<br/>
+- Si li donem per paràmetre un arxiu .txt el llegirà i ens el mostrarà per pantalla. <br/>
+ &nbsp; Exemple: java Main4.java C:\Java\eclipse-workspace\S1T5\Directori.txt
 
 <h2>S1T5N1Ex5 - Serialitzar un fitxer .txt</h2>
-Obrim Main5 sense donarli cap parametre. El programa guardará la serialització d'un objecte e inmediatament el desserielitzarà mostrant per pantalla totes les seves variables. Exemple: java Main4.java
+Obrim Main5 sense donar-li cap paràmetre. El programa guardará la serialització d'un objecte i inmediatament el desserielitzarà mostrant per pantalla totes les seves variables. Exemple: java Main4.java
