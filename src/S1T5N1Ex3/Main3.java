@@ -22,10 +22,10 @@ public class Main3 {
 
 		File dirMain;
 		String m = args[0];
+		String arbreMain = "";
 		
 		dirMain = llegirFitxer(m);
-		ArrayList arRbre = new ArrayList<>();
-		arRbre = ferArbreArchius(dirMain, arRbre, 0);
+		arbreMain = ferArbreArchius(dirMain, arbreMain, 0);
 	}
 
 	public static File llegirFitxer(String a) {
