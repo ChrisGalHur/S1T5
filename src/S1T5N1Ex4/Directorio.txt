@@ -1,0 +1,1492 @@
+C:\Christian\S1T5(D) 26/10/22, 9:12
+
+-C:\Christian\S1T5\.classpath(F) 24/10/22, 10:25
+
+--C:\Christian\S1T5\.git(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\COMMIT_EDITMSG(F) 25/10/22, 13:30
+
+--C:\Christian\S1T5\.git\config(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\description(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\FETCH_HEAD(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\HEAD(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\hooks(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\hooks\applypatch-msg.sample(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\hooks\commit-msg.sample(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\hooks\fsmonitor-watchman.sample(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\hooks\post-update.sample(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\hooks\pre-applypatch.sample(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\hooks\pre-commit.sample(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\hooks\pre-merge-commit.sample(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\hooks\pre-push.sample(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\hooks\pre-rebase.sample(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\hooks\pre-receive.sample(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\hooks\prepare-commit-msg.sample(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\hooks\push-to-checkout.sample(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\hooks\update.sample(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\index(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\info(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\info\exclude(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\logs(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\logs\HEAD(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\logs\refs(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\logs\refs\heads(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\logs\refs\heads\master(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\04(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\04\39c0ef7516d87cb9dc6c9076a0b6175512199f(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\05(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\05\f14d9f4898764bd6df6ac200ada9594a75ecf0(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\0f(D) 25/10/22, 13:29
+
+--C:\Christian\S1T5\.git\objects\0f\44db772ec20672327088acf468b9f57de0b429(F) 25/10/22, 13:29
+
+--C:\Christian\S1T5\.git\objects\16(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\16\d0a66434afb2e9d1a8e231682201e27a493780(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\16\d19eb05bf3132071d0889155d18653c37f5cad(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\18(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\18\7f2b6a76fc9e287a70b609e645894d9d724fd0(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\19(D) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\19\c529b6e7d6be7cee6334b6df974dbb358886ac(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\19\d0764abdd3b67b78ff563fb6a6c49a9d7eda34(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\1f(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\1f\4c92b393447d728097b3f6c58322d0db5a1c64(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\20(D) 25/10/22, 13:30
+
+--C:\Christian\S1T5\.git\objects\20\58e48512b77b68820e657288f7695369761988(F) 25/10/22, 13:30
+
+--C:\Christian\S1T5\.git\objects\22(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\22\90e4593d29f836adb4172937927950a1af2032(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\24(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\24\98b287a4f2e3470caa727238dea8372e631522(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\26(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\26\a140b943a0713ff086fb32f380ccd2188fca63(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\26\c08c37e457cfe7a81e3fb974462e72933546b8(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\27(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\27\2058963d0a6aa9e756ef69bfcd7465fa56e609(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\28(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\28\ecbfaf63d9fff690ab36a8041b8d86b486703e(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\2a(D) 25/10/22, 13:29
+
+--C:\Christian\S1T5\.git\objects\2a\467cd57c98966868a11aff09d946a0c786407d(F) 25/10/22, 13:29
+
+--C:\Christian\S1T5\.git\objects\2e(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\2e\aecd151c615ed621859ae118a9f2b8fde64dc5(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\2e\e19d84733f9d6fec0dbdd96fb6f128e3662ae1(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\2f(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\2f\c5a4acfaca807f20765e6fa8521e5c62c75e39(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\30(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\30\6b470571b90a1639b113e6960754b2a4c16cf9(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\30\e03d34f28b10d67907e27700727ca44e582a91(F) 25/10/22, 13:29
+
+--C:\Christian\S1T5\.git\objects\32(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\32\3a759b7dae5f14691f416b4dc4e37a55eac4fc(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\33(D) 25/10/22, 13:30
+
+--C:\Christian\S1T5\.git\objects\33\1fec098ae86b9e7a1eebb5d8d2af27ab004580(F) 25/10/22, 13:30
+
+--C:\Christian\S1T5\.git\objects\36(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\36\acad4ab91e9dca68a09f5ae2dec6fff16e8511(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\39(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\39\8cfa4e252cdc9b41f78fb5dc7f17bf5f7c518d(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\3d(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\3d\d46c8cd0f23eeee5245aa5587426ed95212adf(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\40(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\40\e7bdf92f37cc41b3bc07e19b966cf0a47d6aaf(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\41(D) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\41\81337bf2b0f16420c19a0f8034c2190eff5da0(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\45(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\45\b9133d9e122ff8c027e3bc8ff3cd67f264174e(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\46(D) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\46\6d6e136abd7bd08fec45ea1f10a0782969b032(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\4a(D) 25/10/22, 13:29
+
+--C:\Christian\S1T5\.git\objects\4a\cec22502ca3264dd52746715e33ffb930184e2(F) 25/10/22, 13:29
+
+--C:\Christian\S1T5\.git\objects\4b(D) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\4b\616cb6aa7ce2ab7d30d163b8a4412d68aba908(F) 25/10/22, 13:29
+
+--C:\Christian\S1T5\.git\objects\4c(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\4c\011fef09fe18e4a69c57d29b9e8255b1a2d51b(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\4c\85832f5e3a1c30b0655d36c96add4589eeb32b(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\51(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\51\1289e0afe72cf65d73ee475476d025c117add7(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\54(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\54\8f924457f2a6e0972eb526a6ea2869754da1f0(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\5c(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\5c\a3526681fb9fbfa4881ca6472a324d6c82208b(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\67(D) 25/10/22, 13:30
+
+--C:\Christian\S1T5\.git\objects\67\f03d3d4501100b99cebd3844318446380bec0a(F) 25/10/22, 13:30
+
+--C:\Christian\S1T5\.git\objects\6e(D) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\6e\0394ee9a14d1ce045a38ff34ae9866e74acea4(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\70(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\70\80c43f1f340933a98ed6f76a1d30f4f09a969d(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\76(D) 25/10/22, 13:30
+
+--C:\Christian\S1T5\.git\objects\76\2bbd9487bbd5cf3aff070eef413bc67c0d9d8a(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\76\6729450e8fcbec561c290931b990d63899a68e(F) 25/10/22, 13:30
+
+--C:\Christian\S1T5\.git\objects\77(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\77\b9bbd23a17cf36a220daf640d0f55ef0dc13fb(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\78(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\78\620b39e42faf5722a1ee2d4066276551243563(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\78\e5f1127872736466684c5768e9cbbae6511ec8(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\79(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\79\4505186fa4d40887e6c9070526fba285d011c4(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\82(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\82\d41d9e46b33b366746a2b39057d12ca485b412(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\84(D) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\84\99cd172220ba63ebbeed686d3e88ed6d33cd91(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\85(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\85\6839c5ee8c3b1986393a9b854ccb3fb58d1bbe(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\86(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\86\325d02117a987dc484f6ac96b37de9c14ca3d7(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\89(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\89\1c1892d5644619397bd91532d5c36ee83ea1a1(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\89\84dcce7e61eeb550b84a66f4bcf4dcdff3794c(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\8a(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\8a\abe8df874b0a3d967f10f874d673ca429620a2(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\8b(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\8b\7029d83ece11afae3c79d928ad51ca986475c3(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\8c(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\8c\2481cf0f93a80e2906d8d8974cd87d1c1e809f(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\91(D) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\91\3876af6712f4bf504981a7bef04eec6c04c792(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\92(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\92\f0678b7bc9b57e946a959585880833464b961a(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\95(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\95\8635009a4a02a4cb7c949074a227a305d2d580(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\97(D) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\97\5b79af8488441f8a99d79603d2532d6b05a704(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\98(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\98\d369da1ec3662439695245ce3eca2d433465a8(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\9b(D) 25/10/22, 13:30
+
+--C:\Christian\S1T5\.git\objects\9b\85672660dc9a1a321724022ad653c38c101255(F) 25/10/22, 13:30
+
+--C:\Christian\S1T5\.git\objects\9d(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\9d\f84fea356bd9c20e561712c0e3f17a7fad5477(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\9e(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\9e\7b343ec893f9d4377f403d12f8600d1f016e6a(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\9e\93ae48308e4bb0096abdb14d6db107f92b9556(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\9f(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\9f\9bbb5612aad790978d63aec582eafaaa5a5f32(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\a1(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\a1\3bfc3662a5133a99352769bd3f58b1990c6db7(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\a3(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\a3\4242df2172c77c38ab62e2fb90b0ba2679e485(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\a3\ff6c1a58f9034ca37546c9abc92596f3fda151(F) 25/10/22, 13:30
+
+--C:\Christian\S1T5\.git\objects\aa(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\aa\1cc1e3ca5d6a46d460f0ffb0dd26a4218b4546(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\ae(D) 25/10/22, 13:30
+
+--C:\Christian\S1T5\.git\objects\ae\ced3fb7a87c24d987a9c05a144088fa2a966b6(F) 25/10/22, 13:30
+
+--C:\Christian\S1T5\.git\objects\b1(D) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\b1\96c64a3418b865f0476d2e21d11eae3dd4b2da(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\b8(D) 25/10/22, 13:29
+
+--C:\Christian\S1T5\.git\objects\b8\c4d2fad3467451f38afd10e4667122aa6e5faf(F) 25/10/22, 13:29
+
+--C:\Christian\S1T5\.git\objects\b9(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\b9\0ad0cb3bde99a8dba1c5c7546f5aabaa4aa23c(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\c6(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\c6\957dfa2a9338ab4b965e4f8b69a0f9fbaf580f(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\c7(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\c7\964f802ebcdbeb001207441f67a5ff09afd4b9(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\cd(D) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\cd\95bae7b75e090fa80d492ea4774586f69e5d84(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\d2(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\d2\947ae2e89dc8d3dcc2e1e1f1cd8b835b69a06e(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\d4(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\d4\33457433e8f8307610c009220b0c4e85a7db9b(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\d9(D) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\d9\e3d03290c6c9c6c6081ccdaafbd16722ea13cf(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\db(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\db\0d3d6976dc1200c1a69efc826746a1801577e5(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\db\92ef625bdf80560679ef9a00e26c87cbf503e0(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\e1(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\e1\2ddc9446bab85142b65e72ed965809ae55e0a2(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\e2(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\e2\1ab0500228cb4ca9998d1503482a8fca2298e3(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\e4(D) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\e4\af08cca26fa65a65aaa02aff7e456b8a3d6641(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\e6(D) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\e6\9de29bb2d1d6434b8b29ae775ad8c2e48c5391(F) 25/10/22, 13:29
+
+--C:\Christian\S1T5\.git\objects\e7(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\e7\e0e6356a523e4b4ffa1a649ae16f34d1d86a84(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\eb(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\eb\f6628a883116e7e05670752b939b5509fb5891(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\ef(D) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\ef\b779e649706145970486d260c2b7cafa4ccbc4(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\f2(D) 25/10/22, 13:30
+
+--C:\Christian\S1T5\.git\objects\f2\3218cf4f8883566bf2e5bd6d27b70598e59b19(F) 25/10/22, 13:30
+
+--C:\Christian\S1T5\.git\objects\f3(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\f3\0f8584b7dd47f1aa7ee74da31f931f58016e58(F) 25/10/22, 13:29
+
+--C:\Christian\S1T5\.git\objects\f3\b9357ed09bf5e7da88722506bc4c9bad5e8a61(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\f5(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\f5\775addff641ea704890009355eec2dd7713fca(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\fa(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\fa\7eff70f61be4687aafbb255f44b9ca6ba97fad(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\ff(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\ff\41b085315f167a0331c4a694b8716ff488043f(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\info(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\pack(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\ORIG_HEAD(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\refs(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\refs\heads(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\refs\heads\master(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\refs\tags(D) 21/10/22, 14:23
+
+---C:\Christian\S1T5\.project(F) 24/10/22, 10:25
+
+----C:\Christian\S1T5\.settings(D) 24/10/22, 10:25
+
+----C:\Christian\S1T5\.settings\org.eclipse.jdt.core.prefs(F) 24/10/22, 10:25
+
+----C:\Christian\S1T5\.settings\org.eclipse.ltk.core.refactoring.prefs(F) 24/10/22, 10:25
+
+-----C:\Christian\S1T5\Archivo.txt(F) 24/10/22, 13:29
+
+------C:\Christian\S1T5\bin(D) 25/10/22, 13:06
+
+------C:\Christian\S1T5\bin\S1T5N1Ex1(D) 24/10/22, 10:26
+
+------C:\Christian\S1T5\bin\S1T5N1Ex1\Main1.class(F) 24/10/22, 10:26
+
+------C:\Christian\S1T5\bin\S1T5N1Ex2(D) 26/10/22, 9:10
+
+------C:\Christian\S1T5\bin\S1T5N1Ex2\Main2.class(F) 24/10/22, 10:26
+
+------C:\Christian\S1T5\bin\S1T5N1Ex3(D) 26/10/22, 9:10
+
+------C:\Christian\S1T5\bin\S1T5N1Ex3\Main3.class(F) 26/10/22, 9:10
+
+------C:\Christian\S1T5\bin\S1T5N1Ex4(D) 24/10/22, 12:23
+
+------C:\Christian\S1T5\bin\S1T5N1Ex4\Main4.class(F) 26/10/22, 9:20
+
+------C:\Christian\S1T5\bin\S1T5N1Ex5(D) 26/10/22, 9:10
+
+------C:\Christian\S1T5\bin\S1T5N1Ex5\Main5.class(F) 26/10/22, 9:10
+
+------C:\Christian\S1T5\bin\S1T5N1Ex5\SenorDeLosAnillos.class(F) 25/10/22, 13:29
+
+-------C:\Christian\S1T5\Directorio.txt(F) 26/10/22, 9:20
+
+--------C:\Christian\S1T5\Leyendo.txt(F) 24/10/22, 10:25
+
+---------C:\Christian\S1T5\README.md(F) 26/10/22, 9:10
+
+----------C:\Christian\S1T5\Serializats.ser(F) 26/10/22, 9:12
+
+-----------C:\Christian\S1T5\src(D) 25/10/22, 13:06
+
+-----------C:\Christian\S1T5\src\S1T5N1Ex1(D) 24/10/22, 10:25
+
+-----------C:\Christian\S1T5\src\S1T5N1Ex1\Main1.java(F) 24/10/22, 10:25
+
+-----------C:\Christian\S1T5\src\S1T5N1Ex2(D) 26/10/22, 9:10
+
+-----------C:\Christian\S1T5\src\S1T5N1Ex2\Main2.java(F) 24/10/22, 10:25
+
+-----------C:\Christian\S1T5\src\S1T5N1Ex3(D) 26/10/22, 9:10
+
+-----------C:\Christian\S1T5\src\S1T5N1Ex3\Main3.java(F) 26/10/22, 9:10
+
+-----------C:\Christian\S1T5\src\S1T5N1Ex4(D) 26/10/22, 9:22
+
+-----------C:\Christian\S1T5\src\S1T5N1Ex4\Directorio.txt(F) 26/10/22, 9:22
+
+-----------C:\Christian\S1T5\src\S1T5N1Ex4\Main4.java(F) 26/10/22, 9:20
+
+-----------C:\Christian\S1T5\src\S1T5N1Ex5(D) 26/10/22, 9:10
+
+-----------C:\Christian\S1T5\src\S1T5N1Ex5\Main5.java(F) 26/10/22, 9:10
+
+-----------C:\Christian\S1T5\src\S1T5N1Ex5\SenorDeLosAnillos.java(F) 25/10/22, 13:29
+
+C:\Christian\S1T5(D) 26/10/22, 9:12
+
+-C:\Christian\S1T5\.classpath(F) 24/10/22, 10:25
+
+--C:\Christian\S1T5\.git(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\COMMIT_EDITMSG(F) 25/10/22, 13:30
+
+--C:\Christian\S1T5\.git\config(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\description(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\FETCH_HEAD(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\HEAD(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\hooks(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\hooks\applypatch-msg.sample(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\hooks\commit-msg.sample(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\hooks\fsmonitor-watchman.sample(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\hooks\post-update.sample(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\hooks\pre-applypatch.sample(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\hooks\pre-commit.sample(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\hooks\pre-merge-commit.sample(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\hooks\pre-push.sample(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\hooks\pre-rebase.sample(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\hooks\pre-receive.sample(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\hooks\prepare-commit-msg.sample(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\hooks\push-to-checkout.sample(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\hooks\update.sample(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\index(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\info(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\info\exclude(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\logs(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\logs\HEAD(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\logs\refs(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\logs\refs\heads(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\logs\refs\heads\master(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\04(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\04\39c0ef7516d87cb9dc6c9076a0b6175512199f(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\05(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\05\f14d9f4898764bd6df6ac200ada9594a75ecf0(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\0f(D) 25/10/22, 13:29
+
+--C:\Christian\S1T5\.git\objects\0f\44db772ec20672327088acf468b9f57de0b429(F) 25/10/22, 13:29
+
+--C:\Christian\S1T5\.git\objects\16(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\16\d0a66434afb2e9d1a8e231682201e27a493780(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\16\d19eb05bf3132071d0889155d18653c37f5cad(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\18(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\18\7f2b6a76fc9e287a70b609e645894d9d724fd0(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\19(D) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\19\c529b6e7d6be7cee6334b6df974dbb358886ac(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\19\d0764abdd3b67b78ff563fb6a6c49a9d7eda34(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\1f(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\1f\4c92b393447d728097b3f6c58322d0db5a1c64(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\20(D) 25/10/22, 13:30
+
+--C:\Christian\S1T5\.git\objects\20\58e48512b77b68820e657288f7695369761988(F) 25/10/22, 13:30
+
+--C:\Christian\S1T5\.git\objects\22(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\22\90e4593d29f836adb4172937927950a1af2032(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\24(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\24\98b287a4f2e3470caa727238dea8372e631522(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\26(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\26\a140b943a0713ff086fb32f380ccd2188fca63(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\26\c08c37e457cfe7a81e3fb974462e72933546b8(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\27(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\27\2058963d0a6aa9e756ef69bfcd7465fa56e609(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\28(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\28\ecbfaf63d9fff690ab36a8041b8d86b486703e(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\2a(D) 25/10/22, 13:29
+
+--C:\Christian\S1T5\.git\objects\2a\467cd57c98966868a11aff09d946a0c786407d(F) 25/10/22, 13:29
+
+--C:\Christian\S1T5\.git\objects\2e(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\2e\aecd151c615ed621859ae118a9f2b8fde64dc5(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\2e\e19d84733f9d6fec0dbdd96fb6f128e3662ae1(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\2f(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\2f\c5a4acfaca807f20765e6fa8521e5c62c75e39(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\30(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\30\6b470571b90a1639b113e6960754b2a4c16cf9(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\30\e03d34f28b10d67907e27700727ca44e582a91(F) 25/10/22, 13:29
+
+--C:\Christian\S1T5\.git\objects\32(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\32\3a759b7dae5f14691f416b4dc4e37a55eac4fc(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\33(D) 25/10/22, 13:30
+
+--C:\Christian\S1T5\.git\objects\33\1fec098ae86b9e7a1eebb5d8d2af27ab004580(F) 25/10/22, 13:30
+
+--C:\Christian\S1T5\.git\objects\36(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\36\acad4ab91e9dca68a09f5ae2dec6fff16e8511(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\39(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\39\8cfa4e252cdc9b41f78fb5dc7f17bf5f7c518d(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\3d(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\3d\d46c8cd0f23eeee5245aa5587426ed95212adf(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\40(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\40\e7bdf92f37cc41b3bc07e19b966cf0a47d6aaf(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\41(D) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\41\81337bf2b0f16420c19a0f8034c2190eff5da0(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\45(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\45\b9133d9e122ff8c027e3bc8ff3cd67f264174e(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\46(D) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\46\6d6e136abd7bd08fec45ea1f10a0782969b032(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\4a(D) 25/10/22, 13:29
+
+--C:\Christian\S1T5\.git\objects\4a\cec22502ca3264dd52746715e33ffb930184e2(F) 25/10/22, 13:29
+
+--C:\Christian\S1T5\.git\objects\4b(D) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\4b\616cb6aa7ce2ab7d30d163b8a4412d68aba908(F) 25/10/22, 13:29
+
+--C:\Christian\S1T5\.git\objects\4c(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\4c\011fef09fe18e4a69c57d29b9e8255b1a2d51b(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\4c\85832f5e3a1c30b0655d36c96add4589eeb32b(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\51(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\51\1289e0afe72cf65d73ee475476d025c117add7(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\54(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\54\8f924457f2a6e0972eb526a6ea2869754da1f0(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\5c(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\5c\a3526681fb9fbfa4881ca6472a324d6c82208b(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\67(D) 25/10/22, 13:30
+
+--C:\Christian\S1T5\.git\objects\67\f03d3d4501100b99cebd3844318446380bec0a(F) 25/10/22, 13:30
+
+--C:\Christian\S1T5\.git\objects\6e(D) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\6e\0394ee9a14d1ce045a38ff34ae9866e74acea4(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\70(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\70\80c43f1f340933a98ed6f76a1d30f4f09a969d(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\76(D) 25/10/22, 13:30
+
+--C:\Christian\S1T5\.git\objects\76\2bbd9487bbd5cf3aff070eef413bc67c0d9d8a(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\76\6729450e8fcbec561c290931b990d63899a68e(F) 25/10/22, 13:30
+
+--C:\Christian\S1T5\.git\objects\77(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\77\b9bbd23a17cf36a220daf640d0f55ef0dc13fb(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\78(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\78\620b39e42faf5722a1ee2d4066276551243563(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\78\e5f1127872736466684c5768e9cbbae6511ec8(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\79(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\79\4505186fa4d40887e6c9070526fba285d011c4(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\82(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\82\d41d9e46b33b366746a2b39057d12ca485b412(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\84(D) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\84\99cd172220ba63ebbeed686d3e88ed6d33cd91(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\85(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\85\6839c5ee8c3b1986393a9b854ccb3fb58d1bbe(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\86(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\86\325d02117a987dc484f6ac96b37de9c14ca3d7(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\89(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\89\1c1892d5644619397bd91532d5c36ee83ea1a1(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\89\84dcce7e61eeb550b84a66f4bcf4dcdff3794c(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\8a(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\8a\abe8df874b0a3d967f10f874d673ca429620a2(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\8b(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\8b\7029d83ece11afae3c79d928ad51ca986475c3(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\8c(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\8c\2481cf0f93a80e2906d8d8974cd87d1c1e809f(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\91(D) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\91\3876af6712f4bf504981a7bef04eec6c04c792(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\92(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\92\f0678b7bc9b57e946a959585880833464b961a(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\95(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\95\8635009a4a02a4cb7c949074a227a305d2d580(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\97(D) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\97\5b79af8488441f8a99d79603d2532d6b05a704(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\98(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\98\d369da1ec3662439695245ce3eca2d433465a8(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\9b(D) 25/10/22, 13:30
+
+--C:\Christian\S1T5\.git\objects\9b\85672660dc9a1a321724022ad653c38c101255(F) 25/10/22, 13:30
+
+--C:\Christian\S1T5\.git\objects\9d(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\9d\f84fea356bd9c20e561712c0e3f17a7fad5477(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\9e(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\9e\7b343ec893f9d4377f403d12f8600d1f016e6a(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\9e\93ae48308e4bb0096abdb14d6db107f92b9556(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\9f(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\9f\9bbb5612aad790978d63aec582eafaaa5a5f32(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\a1(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\a1\3bfc3662a5133a99352769bd3f58b1990c6db7(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\a3(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\a3\4242df2172c77c38ab62e2fb90b0ba2679e485(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\a3\ff6c1a58f9034ca37546c9abc92596f3fda151(F) 25/10/22, 13:30
+
+--C:\Christian\S1T5\.git\objects\aa(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\aa\1cc1e3ca5d6a46d460f0ffb0dd26a4218b4546(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\ae(D) 25/10/22, 13:30
+
+--C:\Christian\S1T5\.git\objects\ae\ced3fb7a87c24d987a9c05a144088fa2a966b6(F) 25/10/22, 13:30
+
+--C:\Christian\S1T5\.git\objects\b1(D) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\b1\96c64a3418b865f0476d2e21d11eae3dd4b2da(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\b8(D) 25/10/22, 13:29
+
+--C:\Christian\S1T5\.git\objects\b8\c4d2fad3467451f38afd10e4667122aa6e5faf(F) 25/10/22, 13:29
+
+--C:\Christian\S1T5\.git\objects\b9(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\b9\0ad0cb3bde99a8dba1c5c7546f5aabaa4aa23c(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\c6(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\c6\957dfa2a9338ab4b965e4f8b69a0f9fbaf580f(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\c7(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\c7\964f802ebcdbeb001207441f67a5ff09afd4b9(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\cd(D) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\cd\95bae7b75e090fa80d492ea4774586f69e5d84(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\d2(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\d2\947ae2e89dc8d3dcc2e1e1f1cd8b835b69a06e(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\d4(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\d4\33457433e8f8307610c009220b0c4e85a7db9b(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\d9(D) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\d9\e3d03290c6c9c6c6081ccdaafbd16722ea13cf(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\db(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\db\0d3d6976dc1200c1a69efc826746a1801577e5(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\db\92ef625bdf80560679ef9a00e26c87cbf503e0(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\e1(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\e1\2ddc9446bab85142b65e72ed965809ae55e0a2(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\e2(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\e2\1ab0500228cb4ca9998d1503482a8fca2298e3(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\e4(D) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\e4\af08cca26fa65a65aaa02aff7e456b8a3d6641(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\e6(D) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\e6\9de29bb2d1d6434b8b29ae775ad8c2e48c5391(F) 25/10/22, 13:29
+
+--C:\Christian\S1T5\.git\objects\e7(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\e7\e0e6356a523e4b4ffa1a649ae16f34d1d86a84(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\eb(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\eb\f6628a883116e7e05670752b939b5509fb5891(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\ef(D) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\ef\b779e649706145970486d260c2b7cafa4ccbc4(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\f2(D) 25/10/22, 13:30
+
+--C:\Christian\S1T5\.git\objects\f2\3218cf4f8883566bf2e5bd6d27b70598e59b19(F) 25/10/22, 13:30
+
+--C:\Christian\S1T5\.git\objects\f3(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\f3\0f8584b7dd47f1aa7ee74da31f931f58016e58(F) 25/10/22, 13:29
+
+--C:\Christian\S1T5\.git\objects\f3\b9357ed09bf5e7da88722506bc4c9bad5e8a61(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\f5(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\f5\775addff641ea704890009355eec2dd7713fca(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\fa(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\fa\7eff70f61be4687aafbb255f44b9ca6ba97fad(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\ff(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\ff\41b085315f167a0331c4a694b8716ff488043f(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\info(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\pack(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\ORIG_HEAD(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\refs(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\refs\heads(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\refs\heads\master(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\refs\tags(D) 21/10/22, 14:23
+
+---C:\Christian\S1T5\.project(F) 24/10/22, 10:25
+
+----C:\Christian\S1T5\.settings(D) 24/10/22, 10:25
+
+----C:\Christian\S1T5\.settings\org.eclipse.jdt.core.prefs(F) 24/10/22, 10:25
+
+----C:\Christian\S1T5\.settings\org.eclipse.ltk.core.refactoring.prefs(F) 24/10/22, 10:25
+
+-----C:\Christian\S1T5\Archivo.txt(F) 24/10/22, 13:29
+
+------C:\Christian\S1T5\bin(D) 25/10/22, 13:06
+
+------C:\Christian\S1T5\bin\S1T5N1Ex1(D) 24/10/22, 10:26
+
+------C:\Christian\S1T5\bin\S1T5N1Ex1\Main1.class(F) 24/10/22, 10:26
+
+------C:\Christian\S1T5\bin\S1T5N1Ex2(D) 26/10/22, 9:10
+
+------C:\Christian\S1T5\bin\S1T5N1Ex2\Main2.class(F) 24/10/22, 10:26
+
+------C:\Christian\S1T5\bin\S1T5N1Ex3(D) 26/10/22, 9:10
+
+------C:\Christian\S1T5\bin\S1T5N1Ex3\Main3.class(F) 26/10/22, 9:10
+
+------C:\Christian\S1T5\bin\S1T5N1Ex4(D) 24/10/22, 12:23
+
+------C:\Christian\S1T5\bin\S1T5N1Ex4\Main4.class(F) 26/10/22, 9:24
+
+------C:\Christian\S1T5\bin\S1T5N1Ex5(D) 26/10/22, 9:10
+
+------C:\Christian\S1T5\bin\S1T5N1Ex5\Main5.class(F) 26/10/22, 9:10
+
+------C:\Christian\S1T5\bin\S1T5N1Ex5\SenorDeLosAnillos.class(F) 25/10/22, 13:29
+
+-------C:\Christian\S1T5\Directorio.txt(F) 26/10/22, 9:20
+
+--------C:\Christian\S1T5\Leyendo.txt(F) 24/10/22, 10:25
+
+---------C:\Christian\S1T5\README.md(F) 26/10/22, 9:10
+
+----------C:\Christian\S1T5\Serializats.ser(F) 26/10/22, 9:12
+
+-----------C:\Christian\S1T5\src(D) 25/10/22, 13:06
+
+-----------C:\Christian\S1T5\src\S1T5N1Ex1(D) 24/10/22, 10:25
+
+-----------C:\Christian\S1T5\src\S1T5N1Ex1\Main1.java(F) 24/10/22, 10:25
+
+-----------C:\Christian\S1T5\src\S1T5N1Ex2(D) 26/10/22, 9:10
+
+-----------C:\Christian\S1T5\src\S1T5N1Ex2\Main2.java(F) 24/10/22, 10:25
+
+-----------C:\Christian\S1T5\src\S1T5N1Ex3(D) 26/10/22, 9:10
+
+-----------C:\Christian\S1T5\src\S1T5N1Ex3\Main3.java(F) 26/10/22, 9:10
+
+-----------C:\Christian\S1T5\src\S1T5N1Ex4(D) 26/10/22, 9:22
+
+-----------C:\Christian\S1T5\src\S1T5N1Ex4\Directorio.txt(F) 26/10/22, 9:24
+
+-----------C:\Christian\S1T5\src\S1T5N1Ex4\Main4.java(F) 26/10/22, 9:24
+
+-----------C:\Christian\S1T5\src\S1T5N1Ex5(D) 26/10/22, 9:10
+
+-----------C:\Christian\S1T5\src\S1T5N1Ex5\Main5.java(F) 26/10/22, 9:10
+
+-----------C:\Christian\S1T5\src\S1T5N1Ex5\SenorDeLosAnillos.java(F) 25/10/22, 13:29
+
+C:\Christian\S1T5(D) 26/10/22, 9:26
+
+-C:\Christian\S1T5\.classpath(F) 24/10/22, 10:25
+
+--C:\Christian\S1T5\.git(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\COMMIT_EDITMSG(F) 25/10/22, 13:30
+
+--C:\Christian\S1T5\.git\config(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\description(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\FETCH_HEAD(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\HEAD(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\hooks(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\hooks\applypatch-msg.sample(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\hooks\commit-msg.sample(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\hooks\fsmonitor-watchman.sample(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\hooks\post-update.sample(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\hooks\pre-applypatch.sample(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\hooks\pre-commit.sample(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\hooks\pre-merge-commit.sample(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\hooks\pre-push.sample(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\hooks\pre-rebase.sample(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\hooks\pre-receive.sample(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\hooks\prepare-commit-msg.sample(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\hooks\push-to-checkout.sample(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\hooks\update.sample(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\index(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\info(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\info\exclude(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\logs(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\logs\HEAD(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\logs\refs(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\logs\refs\heads(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\logs\refs\heads\master(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\04(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\04\39c0ef7516d87cb9dc6c9076a0b6175512199f(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\05(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\05\f14d9f4898764bd6df6ac200ada9594a75ecf0(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\0f(D) 25/10/22, 13:29
+
+--C:\Christian\S1T5\.git\objects\0f\44db772ec20672327088acf468b9f57de0b429(F) 25/10/22, 13:29
+
+--C:\Christian\S1T5\.git\objects\16(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\16\d0a66434afb2e9d1a8e231682201e27a493780(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\16\d19eb05bf3132071d0889155d18653c37f5cad(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\18(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\18\7f2b6a76fc9e287a70b609e645894d9d724fd0(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\19(D) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\19\c529b6e7d6be7cee6334b6df974dbb358886ac(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\19\d0764abdd3b67b78ff563fb6a6c49a9d7eda34(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\1f(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\1f\4c92b393447d728097b3f6c58322d0db5a1c64(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\20(D) 25/10/22, 13:30
+
+--C:\Christian\S1T5\.git\objects\20\58e48512b77b68820e657288f7695369761988(F) 25/10/22, 13:30
+
+--C:\Christian\S1T5\.git\objects\22(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\22\90e4593d29f836adb4172937927950a1af2032(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\24(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\24\98b287a4f2e3470caa727238dea8372e631522(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\26(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\26\a140b943a0713ff086fb32f380ccd2188fca63(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\26\c08c37e457cfe7a81e3fb974462e72933546b8(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\27(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\27\2058963d0a6aa9e756ef69bfcd7465fa56e609(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\28(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\28\ecbfaf63d9fff690ab36a8041b8d86b486703e(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\2a(D) 25/10/22, 13:29
+
+--C:\Christian\S1T5\.git\objects\2a\467cd57c98966868a11aff09d946a0c786407d(F) 25/10/22, 13:29
+
+--C:\Christian\S1T5\.git\objects\2e(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\2e\aecd151c615ed621859ae118a9f2b8fde64dc5(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\2e\e19d84733f9d6fec0dbdd96fb6f128e3662ae1(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\2f(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\2f\c5a4acfaca807f20765e6fa8521e5c62c75e39(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\30(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\30\6b470571b90a1639b113e6960754b2a4c16cf9(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\30\e03d34f28b10d67907e27700727ca44e582a91(F) 25/10/22, 13:29
+
+--C:\Christian\S1T5\.git\objects\32(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\32\3a759b7dae5f14691f416b4dc4e37a55eac4fc(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\33(D) 25/10/22, 13:30
+
+--C:\Christian\S1T5\.git\objects\33\1fec098ae86b9e7a1eebb5d8d2af27ab004580(F) 25/10/22, 13:30
+
+--C:\Christian\S1T5\.git\objects\36(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\36\acad4ab91e9dca68a09f5ae2dec6fff16e8511(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\39(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\39\8cfa4e252cdc9b41f78fb5dc7f17bf5f7c518d(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\3d(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\3d\d46c8cd0f23eeee5245aa5587426ed95212adf(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\40(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\40\e7bdf92f37cc41b3bc07e19b966cf0a47d6aaf(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\41(D) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\41\81337bf2b0f16420c19a0f8034c2190eff5da0(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\45(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\45\b9133d9e122ff8c027e3bc8ff3cd67f264174e(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\46(D) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\46\6d6e136abd7bd08fec45ea1f10a0782969b032(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\4a(D) 25/10/22, 13:29
+
+--C:\Christian\S1T5\.git\objects\4a\cec22502ca3264dd52746715e33ffb930184e2(F) 25/10/22, 13:29
+
+--C:\Christian\S1T5\.git\objects\4b(D) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\4b\616cb6aa7ce2ab7d30d163b8a4412d68aba908(F) 25/10/22, 13:29
+
+--C:\Christian\S1T5\.git\objects\4c(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\4c\011fef09fe18e4a69c57d29b9e8255b1a2d51b(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\4c\85832f5e3a1c30b0655d36c96add4589eeb32b(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\51(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\51\1289e0afe72cf65d73ee475476d025c117add7(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\54(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\54\8f924457f2a6e0972eb526a6ea2869754da1f0(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\5c(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\5c\a3526681fb9fbfa4881ca6472a324d6c82208b(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\67(D) 25/10/22, 13:30
+
+--C:\Christian\S1T5\.git\objects\67\f03d3d4501100b99cebd3844318446380bec0a(F) 25/10/22, 13:30
+
+--C:\Christian\S1T5\.git\objects\6e(D) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\6e\0394ee9a14d1ce045a38ff34ae9866e74acea4(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\70(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\70\80c43f1f340933a98ed6f76a1d30f4f09a969d(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\76(D) 25/10/22, 13:30
+
+--C:\Christian\S1T5\.git\objects\76\2bbd9487bbd5cf3aff070eef413bc67c0d9d8a(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\76\6729450e8fcbec561c290931b990d63899a68e(F) 25/10/22, 13:30
+
+--C:\Christian\S1T5\.git\objects\77(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\77\b9bbd23a17cf36a220daf640d0f55ef0dc13fb(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\78(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\78\620b39e42faf5722a1ee2d4066276551243563(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\78\e5f1127872736466684c5768e9cbbae6511ec8(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\79(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\79\4505186fa4d40887e6c9070526fba285d011c4(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\82(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\82\d41d9e46b33b366746a2b39057d12ca485b412(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\84(D) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\84\99cd172220ba63ebbeed686d3e88ed6d33cd91(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\85(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\85\6839c5ee8c3b1986393a9b854ccb3fb58d1bbe(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\86(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\86\325d02117a987dc484f6ac96b37de9c14ca3d7(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\89(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\89\1c1892d5644619397bd91532d5c36ee83ea1a1(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\89\84dcce7e61eeb550b84a66f4bcf4dcdff3794c(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\8a(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\8a\abe8df874b0a3d967f10f874d673ca429620a2(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\8b(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\8b\7029d83ece11afae3c79d928ad51ca986475c3(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\8c(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\8c\2481cf0f93a80e2906d8d8974cd87d1c1e809f(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\91(D) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\91\3876af6712f4bf504981a7bef04eec6c04c792(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\92(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\92\f0678b7bc9b57e946a959585880833464b961a(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\95(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\95\8635009a4a02a4cb7c949074a227a305d2d580(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\97(D) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\97\5b79af8488441f8a99d79603d2532d6b05a704(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\98(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\98\d369da1ec3662439695245ce3eca2d433465a8(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\9b(D) 25/10/22, 13:30
+
+--C:\Christian\S1T5\.git\objects\9b\85672660dc9a1a321724022ad653c38c101255(F) 25/10/22, 13:30
+
+--C:\Christian\S1T5\.git\objects\9d(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\9d\f84fea356bd9c20e561712c0e3f17a7fad5477(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\9e(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\9e\7b343ec893f9d4377f403d12f8600d1f016e6a(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\9e\93ae48308e4bb0096abdb14d6db107f92b9556(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\9f(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\9f\9bbb5612aad790978d63aec582eafaaa5a5f32(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\a1(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\a1\3bfc3662a5133a99352769bd3f58b1990c6db7(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\a3(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\a3\4242df2172c77c38ab62e2fb90b0ba2679e485(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\a3\ff6c1a58f9034ca37546c9abc92596f3fda151(F) 25/10/22, 13:30
+
+--C:\Christian\S1T5\.git\objects\aa(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\aa\1cc1e3ca5d6a46d460f0ffb0dd26a4218b4546(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\ae(D) 25/10/22, 13:30
+
+--C:\Christian\S1T5\.git\objects\ae\ced3fb7a87c24d987a9c05a144088fa2a966b6(F) 25/10/22, 13:30
+
+--C:\Christian\S1T5\.git\objects\b1(D) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\b1\96c64a3418b865f0476d2e21d11eae3dd4b2da(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\b8(D) 25/10/22, 13:29
+
+--C:\Christian\S1T5\.git\objects\b8\c4d2fad3467451f38afd10e4667122aa6e5faf(F) 25/10/22, 13:29
+
+--C:\Christian\S1T5\.git\objects\b9(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\b9\0ad0cb3bde99a8dba1c5c7546f5aabaa4aa23c(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\c6(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\c6\957dfa2a9338ab4b965e4f8b69a0f9fbaf580f(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\c7(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\c7\964f802ebcdbeb001207441f67a5ff09afd4b9(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\cd(D) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\cd\95bae7b75e090fa80d492ea4774586f69e5d84(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\d2(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\d2\947ae2e89dc8d3dcc2e1e1f1cd8b835b69a06e(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\d4(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\d4\33457433e8f8307610c009220b0c4e85a7db9b(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\d9(D) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\d9\e3d03290c6c9c6c6081ccdaafbd16722ea13cf(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\db(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\db\0d3d6976dc1200c1a69efc826746a1801577e5(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\db\92ef625bdf80560679ef9a00e26c87cbf503e0(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\e1(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\e1\2ddc9446bab85142b65e72ed965809ae55e0a2(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\e2(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\e2\1ab0500228cb4ca9998d1503482a8fca2298e3(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\e4(D) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\e4\af08cca26fa65a65aaa02aff7e456b8a3d6641(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\e6(D) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\e6\9de29bb2d1d6434b8b29ae775ad8c2e48c5391(F) 25/10/22, 13:29
+
+--C:\Christian\S1T5\.git\objects\e7(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\e7\e0e6356a523e4b4ffa1a649ae16f34d1d86a84(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\eb(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\eb\f6628a883116e7e05670752b939b5509fb5891(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\ef(D) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\ef\b779e649706145970486d260c2b7cafa4ccbc4(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\f2(D) 25/10/22, 13:30
+
+--C:\Christian\S1T5\.git\objects\f2\3218cf4f8883566bf2e5bd6d27b70598e59b19(F) 25/10/22, 13:30
+
+--C:\Christian\S1T5\.git\objects\f3(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\f3\0f8584b7dd47f1aa7ee74da31f931f58016e58(F) 25/10/22, 13:29
+
+--C:\Christian\S1T5\.git\objects\f3\b9357ed09bf5e7da88722506bc4c9bad5e8a61(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\f5(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\f5\775addff641ea704890009355eec2dd7713fca(F) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\fa(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\fa\7eff70f61be4687aafbb255f44b9ca6ba97fad(F) 24/10/22, 13:27
+
+--C:\Christian\S1T5\.git\objects\ff(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\ff\41b085315f167a0331c4a694b8716ff488043f(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\objects\info(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\objects\pack(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\ORIG_HEAD(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\refs(D) 21/10/22, 14:23
+
+--C:\Christian\S1T5\.git\refs\heads(D) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\refs\heads\master(F) 26/10/22, 9:10
+
+--C:\Christian\S1T5\.git\refs\tags(D) 21/10/22, 14:23
+
+---C:\Christian\S1T5\.project(F) 24/10/22, 10:25
+
+----C:\Christian\S1T5\.settings(D) 24/10/22, 10:25
+
+----C:\Christian\S1T5\.settings\org.eclipse.jdt.core.prefs(F) 24/10/22, 10:25
+
+----C:\Christian\S1T5\.settings\org.eclipse.ltk.core.refactoring.prefs(F) 24/10/22, 10:25
+
+-----C:\Christian\S1T5\Archivo.txt(F) 24/10/22, 13:29
+
+------C:\Christian\S1T5\bin(D) 25/10/22, 13:06
+
+------C:\Christian\S1T5\bin\S1T5N1Ex1(D) 24/10/22, 10:26
+
+------C:\Christian\S1T5\bin\S1T5N1Ex1\Main1.class(F) 24/10/22, 10:26
+
+------C:\Christian\S1T5\bin\S1T5N1Ex2(D) 26/10/22, 9:10
+
+------C:\Christian\S1T5\bin\S1T5N1Ex2\Main2.class(F) 24/10/22, 10:26
+
+------C:\Christian\S1T5\bin\S1T5N1Ex3(D) 26/10/22, 9:10
+
+------C:\Christian\S1T5\bin\S1T5N1Ex3\Main3.class(F) 26/10/22, 9:10
+
+------C:\Christian\S1T5\bin\S1T5N1Ex4(D) 24/10/22, 12:23
+
+------C:\Christian\S1T5\bin\S1T5N1Ex4\Main4.class(F) 26/10/22, 9:25
+
+------C:\Christian\S1T5\bin\S1T5N1Ex5(D) 26/10/22, 9:10
+
+------C:\Christian\S1T5\bin\S1T5N1Ex5\Main5.class(F) 26/10/22, 9:10
+
+------C:\Christian\S1T5\bin\S1T5N1Ex5\SenorDeLosAnillos.class(F) 25/10/22, 13:29
+
+-------C:\Christian\S1T5\Leyendo.txt(F) 24/10/22, 10:25
+
+--------C:\Christian\S1T5\README.md(F) 26/10/22, 9:10
+
+---------C:\Christian\S1T5\Serializats.ser(F) 26/10/22, 9:12
+
+----------C:\Christian\S1T5\src(D) 25/10/22, 13:06
+
+----------C:\Christian\S1T5\src\S1T5N1Ex1(D) 24/10/22, 10:25
+
+----------C:\Christian\S1T5\src\S1T5N1Ex1\Main1.java(F) 24/10/22, 10:25
+
+----------C:\Christian\S1T5\src\S1T5N1Ex2(D) 26/10/22, 9:10
+
+----------C:\Christian\S1T5\src\S1T5N1Ex2\Main2.java(F) 24/10/22, 10:25
+
+----------C:\Christian\S1T5\src\S1T5N1Ex3(D) 26/10/22, 9:10
+
+----------C:\Christian\S1T5\src\S1T5N1Ex3\Main3.java(F) 26/10/22, 9:10
+
+----------C:\Christian\S1T5\src\S1T5N1Ex4(D) 26/10/22, 9:22
+
+----------C:\Christian\S1T5\src\S1T5N1Ex4\Directorio.txt(F) 26/10/22, 9:26
+
+----------C:\Christian\S1T5\src\S1T5N1Ex4\Main4.java(F) 26/10/22, 9:25
+
+----------C:\Christian\S1T5\src\S1T5N1Ex5(D) 26/10/22, 9:10
+
+----------C:\Christian\S1T5\src\S1T5N1Ex5\Main5.java(F) 26/10/22, 9:10
+
+----------C:\Christian\S1T5\src\S1T5N1Ex5\SenorDeLosAnillos.java(F) 25/10/22, 13:29
+

@@ -11,6 +11,8 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Main3 {
+	
+	private static int count = 0;
 
 	public static void main(String[] args) {
 		/*- Exercici 3
@@ -36,11 +38,16 @@ public class Main3 {
 		return dir;
 	}
 	
-	public static ArrayList ferArbreArchius(File fileATreballar, ArrayList arbre, Integer iLevel) {
+	public static String ferArbreArchius(File fileATreballar, String arbre, Integer iLevel) {
 		SimpleDateFormat fecha = new SimpleDateFormat();
 
 		for(int i = 0; i < iLevel; i++) {
-			guardarRegistre("-");
+			if(arbre.equalsIgnoreCase("")) {
+				count++;
+				for(int a = 0; a < count; a++) {
+					arbre += "-";
+				}
+			}
 		}
 		if(fileATreballar.isDirectory()) {
 			guardarRegistre(fileATreballar.getName() + "(D) " + fecha.format(fileATreballar.lastModified()));
@@ -58,7 +65,6 @@ public class Main3 {
 	}
 	
 	public static void guardarRegistre(String datoGuardar) {
-		String resposta = "";
 		
 		try{
             FileWriter fichero = new FileWriter("Directorio.txt", true);
@@ -67,9 +73,8 @@ public class Main3 {
            	pw.println(datoGuardar);
            	fichero.close();
         }catch(Exception e) {
-        	resposta = "No se ha podido guardar el registro.";
+        	System.out.println("No se ha podido guardar el registro.");
         }
-		System.out.println(resposta);
 	}
 	
 }

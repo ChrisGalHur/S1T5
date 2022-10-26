@@ -45,7 +45,7 @@ public class Main4 {
 	
 	public static String ferArbreArchius(File fileATreballar, String arbre, Integer iLevel) {
 		SimpleDateFormat fecha = new SimpleDateFormat();
-
+		
 		for(int i = 0; i < iLevel; i++) {
 			if(arbre.equalsIgnoreCase("")) {
 				count++;
@@ -70,7 +70,6 @@ public class Main4 {
 	}
 	
 	public static void guardarRegistre(String guardar) {
-		String resposta = "";
 		
 		try{
             FileWriter fichero = new FileWriter("Directorio.txt", true);
@@ -79,13 +78,12 @@ public class Main4 {
            	pw.println(guardar);
            	fichero.close();
         }catch(Exception e) {
-        	resposta = "No se ha podido guardar el registro.";
+        	System.out.println("No se ha podido guardar el registro.");
+       
         }
-		System.out.println(resposta);
 	}
 	
 	public static void llegirTxt(File llegir) {
-		File arxiuLlegir = null;
 		FileReader fr = null;
 		BufferedReader br = null;
 	      
